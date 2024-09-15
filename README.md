@@ -24,20 +24,4 @@
 - enter 1st row of the table manually and transfer video and image to the respective folders.
 
 
-# Screenshots :
-
-**Homepage**
-![](scrshots/1.jpg)
-
-**Admin page**
-![](scrshots/2.jpg)
-
-**Add movie**
-![](scrshots/3.jpg)
-
-**Movie page**
-![](scrshots/5.jpg)
-
-**Account details**
-![](scrshots/4.jpg)
 # Cinemaghar
